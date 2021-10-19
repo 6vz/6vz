@@ -22,17 +22,17 @@
 
 ### What I'm listening to 🎶
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cstqihratnh4m518g48jykau2&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=cstqihratnh4m518g48jykau2&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f2pbt7gx4uzu9k0usg9yl1svb&cover_image=true&theme=compact&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=f2pbt7gx4uzu9k0usg9yl1svb&redirect=true)
 
 #
 
 ### ToDo List ⚡
 
-- [ ] Go for a walk
-- [x] Learn JS
-- [x] Do better uploader
-- [x] Do basic uploader
-  
+- [ ] Cure Depression
+- [ ] Go to some concert
+- [ ] Buy some shit to my room from IKEA
+- [x] Release **imgs.today** beta
+- [ ] Learn Blender
  
 
 </div>
