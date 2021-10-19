@@ -20,12 +20,6 @@
 
 #
 
-### What I'm listening to 🎶
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f2pbt7gx4uzu9k0usg9yl1svb&cover_image=true&theme=compact&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=f2pbt7gx4uzu9k0usg9yl1svb&redirect=true)
-
-#
-
 ### ToDo List ⚡
 
 - [ ] Cure Depression
