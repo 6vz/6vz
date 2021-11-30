@@ -31,13 +31,13 @@
   
 ## Social Media List 🐱‍🏍
 
-- [Twitch](https://twitch.tv/6vzSaysStuff)
-- [Twitter Shitpost](twitter.com/6vzSaysStuff)
-- [My Discord Server](https://discord.gg/labs)
-- [Discord Profile](https://discord.com/users/338075554937044994)
-- [Figma Community](https://figma.com/6vz)
-- [My Image Hosting](https://imgs.today)
-- [Github](https://github.com/6vz) *(you're already here bruh)*
+∙ [Twitch](https://twitch.tv/6vzSaysStuff)<br>
+∙ [Twitter Shitpost](twitter.com/6vzSaysStuff)<br>
+∙ [My Discord Server](https://discord.gg/labs)<br>
+∙ [Discord Profile](https://discord.com/users/338075554937044994)<br>
+∙ [Figma Community](https://figma.com/6vz)<br>
+∙ [My Image Hosting](https://imgs.today)<br>
+∙ [Github](https://github.com/6vz) *(you're already here bruh)*<br>
  
 
 </div>
