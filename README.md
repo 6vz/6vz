@@ -26,7 +26,18 @@
 - [ ] Go to some concert
 - [ ] Buy some shit to my room from IKEA
 - [x] Release **imgs.today** beta
-- [ ] Learn Blender
+- [ ] Release **imgs.today** stable version
+- [x] Learn Blender
+  
+## Social Media List 🐱‍🏍
+
+- [Twitch](https://twitch.tv/6vzSaysStuff)
+- [Twitter Shitpost](twitter.com/6vzSaysStuff)
+- [My Discord Server](https://discord.gg/labs)
+- [Discord Profile](https://discord.com/users/338075554937044994)
+- [Figma Community](https://figma.com/6vz)
+- [My Image Hosting](https://imgs.today)
+- [Github](https://github.com/6vz) *(you're already here bruh)*
  
 
 </div>
