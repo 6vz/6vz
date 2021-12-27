@@ -22,11 +22,11 @@
 
 ### ToDo List ⚡
 
-- [ ] Cure Depression
-- [ ] Go to some concert
+- [x] Cure Depression
+- [x] Go to some concert
 - [ ] Buy some shit to my room from IKEA
 - [x] Release **imgs.today** beta
-- [ ] Release **imgs.today** stable version
+- [x] Release **imgs.today** stable version
 - [x] Learn Blender
   
 ## Social Media List 🐱‍🏍
