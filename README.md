@@ -13,7 +13,7 @@ I am Matt, and I am 16 years old. Python Enjoyer, Windows Hater & macOS and Linu
 
 ## Contact
 - E-mail: [`info@6vz.dev`](mailto:info@6vz.dev)
-- Telegram: [`t.me link`](https://t.me/matipozimowemu)
+- Telegram: [`t.me link`](https://t.me/mateuszpozimowemu)
 
 ---
 Yeah, so i dont understand why you're reading this and wasting your time :)
