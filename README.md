@@ -1,4 +1,4 @@
-![](./header.png)<br>
+![](https://cdn.discordapp.com/attachments/945042950369452042/985963900489072720/gieyrwfdsa.png)<br>
 I am Matt, and I am 16 years old. Python Enjoyer, Windows Hater & macOS and Linux enjoyer.<br>If you want to see my work, check my Repos! If you want to contact me, use form on [my website](https://6vz.dev/)
 
 ## My other hobbies
