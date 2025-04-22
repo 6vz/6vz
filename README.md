@@ -4,18 +4,7 @@
 A 17-year-old developer with dreams to make the world a better place.
 If you want to know a little bit more about my work, you should definetely check my [website](https://6vz.dev).
 
-## Achievements
-- 🥉 3rd place - Young Smart Hackathon 17LO 2022
-- 🏃‍♂️ Finalist - Young Smart Hackathon 17LO 2023
-- 🥉 3rd place - Young Smart Hackathon 17LO 2024
-- 🥉 3rd place - Elevenlabs x a16z Hackathon (w/ @azpektdev) 2025
-- 🥈 2nd place - Young Smart Hackathon 17LO 2025
-
-## Contact me
-- 📲 <a href="tel:+48588814534">+48 58 881 45 34</a>
-- 📧 [info[at]6vz.dev](mailto:info@6vz.dev) ([alternative](mailto:mbaranowski@seznam.cz))
-
-## Stats
+## 📊 Stats
 <details open>
 <summary>Moveit Stats</summary>
 <br>
@@ -29,3 +18,16 @@ If you want to know a little bit more about my work, you should definetely check
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6vz)](https://github.com/anuraghazra/github-readme-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6vz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+
+## 🎖️  Achievements
+- 🥉 3rd place - Young Smart Hackathon 17LO 2022
+- 🎖️ Finalist - Young Smart Hackathon 17LO 2023
+- 🥉 3rd place - Young Smart Hackathon 17LO 2024
+- 🥉 3rd place - Elevenlabs x a16z Hackathon (w/ @azpektdev) 2025
+- 🥈 2nd place - Young Smart Hackathon 17LO 2025
+
+## 📇 Contact me
+- 📲 <a href="tel:+48588814534">+48 58 881 45 34</a>
+- 📧 [info[at]6vz.dev](mailto:info@6vz.dev) ([alternative](mailto:mbaranowski@seznam.cz))
+
+
