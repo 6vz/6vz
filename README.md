@@ -24,6 +24,7 @@ If you want to know a little bit more about my work, you should definetely check
 - 🎖️ Finalist - Young Smart Hackathon 17LO 2023
 - 🥉 3rd place - Young Smart Hackathon 17LO 2024
 - 🥉 3rd place - Elevenlabs x a16z Hackathon (w/ @azpektdev) 2025
+- 🎖️ Intl. Distinction - Elevenlabs x a16z Hackathon (w/ @azpektdev) 2025
 - 🥈 2nd place - Young Smart Hackathon 17LO 2025
 
 ## 📇 Contact me
