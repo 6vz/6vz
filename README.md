@@ -1,7 +1,7 @@
 # Hi! I'm Matt. 
 > A little caffeine, lack of sleep, and pointless tapping on the keyboard - And there you go. The project is finished, and turned in.
 
-A 17-year-old developer with dreams to make the world a better place.
+A 19-year-old* developer with dreams to make the world a better place.
 If you want to know a little bit more about my work, you should definetely check my [website](https://6vz.dev).
 
 ## 📊 Stats
@@ -31,4 +31,5 @@ If you want to know a little bit more about my work, you should definetely check
 - 📲 <a href="tel:+48588814534">+48 58 881 45 34</a>
 - 📧 [info[at]6vz.dev](mailto:info@6vz.dev) ([alternative](mailto:mbaranowski@seznam.cz))
 
-
+---
+`*` - I sometimes forget to update this date, just know that I was born on October 2006.
